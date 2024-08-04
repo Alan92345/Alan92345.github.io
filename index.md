@@ -3,7 +3,6 @@ layout: home
 author_profile: true
 ---
 
-# Home
 ## Hi, I'm Alan! Welcome to my site!
 
 - I'm a senior student at [Tianjin University](https://www.tju.edu.cn/)🇨🇳. My research interest includes computer vision, machine learning, and LLMs.
