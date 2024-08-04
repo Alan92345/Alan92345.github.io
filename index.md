@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+title: Home
 ---
 
 ## Hi, I'm Alan! Welcome to my site!
